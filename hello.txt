@@ -1,3 +1,5 @@
 Hello to everyone. Whatsapp!
 Line added from remote file.
 line added from local file
+
+Line added by dev3 from local without taking(pulling) the recent codes from updated remote master.
