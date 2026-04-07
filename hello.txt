@@ -1,3 +1,5 @@
 Hello to everyone. Whatsapp!
 Line added from remote file.
 line added from local file
+
+This line is added by dev2 from local branch
